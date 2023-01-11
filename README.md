@@ -1,4 +1,4 @@
-<h1 align="center">Hi :pouting_woman:, I'm Lomatul Mahzabin</h1>
+<h1 align="center">Hi 👋 , I'm Lomatul Mahzabin  :pouting_woman: </h1>
 <h3 align="center">Want to be a frontend developer</h3>
 
 
